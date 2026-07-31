@@ -1,5 +1,4 @@
-
-## 📌 Objective
+Assesment - 9
 The primary objective of this project is to build, train, and evaluate a Convolutional Neural Network (CNN) model to automate the classification of pet images into **Cats** and **Dogs** for an animal welfare organization.
 
 ---
